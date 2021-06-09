@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3BBaskiFiyatiHesaplama", "3BBaskiFiyatiHesaplama.csproj", "{C7AC0E01-7462-4472-A5A1-A42C8F6172DB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{DFEC80B2-F0AC-4D42-8E2F-3AAD064D1E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AC0E01-7462-4472-A5A1-A42C8F6172DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AC0E01-7462-4472-A5A1-A42C8F6172DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AC0E01-7462-4472-A5A1-A42C8F6172DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AC0E01-7462-4472-A5A1-A42C8F6172DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEC80B2-F0AC-4D42-8E2F-3AAD064D1E7B}.Debug|Any CPU.ActiveCfg = Debug
+		{DFEC80B2-F0AC-4D42-8E2F-3AAD064D1E7B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABFDDB5-EC2C-4286-A15B-1A57BC93740B}
+	EndGlobalSection
+EndGlobal
