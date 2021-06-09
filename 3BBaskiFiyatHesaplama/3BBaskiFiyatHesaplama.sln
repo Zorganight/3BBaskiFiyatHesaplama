@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3BBaskiFiyatHesaplama", "3BBaskiFiyatHesaplama.csproj", "{41E217C0-C573-4557-A484-6D6C25EA7843}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{2CDA5C24-E614-4985-92ED-FD4DE7D4DEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E217C0-C573-4557-A484-6D6C25EA7843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E217C0-C573-4557-A484-6D6C25EA7843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E217C0-C573-4557-A484-6D6C25EA7843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E217C0-C573-4557-A484-6D6C25EA7843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDA5C24-E614-4985-92ED-FD4DE7D4DEE5}.Debug|Any CPU.ActiveCfg = Debug
+		{2CDA5C24-E614-4985-92ED-FD4DE7D4DEE5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DBBD5B-3BFB-4188-A923-4CD07E8E8EF0}
+	EndGlobalSection
+EndGlobal
