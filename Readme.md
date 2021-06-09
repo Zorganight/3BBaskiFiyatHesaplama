@@ -10,7 +10,7 @@ Dosyayı indirdikten sonra setup klasörüne ondan sonra da Release klasörüne 
 
 ## Nasıl kullanılır?
 
-Uygulamamızı açtıktan sonra filamentin kilogram fiyatını , baskının gramını ve işçilik fiyatını yazıyoruz. Unutmayın **bütün boşlukları doldurun**. Daha sonra fiyat hesapla düğmesine basıyoruz ve net fiyat(Parçanın bize ne kadara mal olduğu.), Kar ile birlikte fiyat(Satış için gerekli olan fiyat)
+Uygulamamızı açtıktan sonra filamentin kilogram fiyatını , baskının gramını ve işçilik fiyatını yazıyoruz. Unutmayın **bütün boşlukları doldurun**. Daha sonra fiyat hesapla düğmesine basıyoruz ve net fiyat(Parçanın bize ne kadara mal olduğu.), Kar ile birlikte fiyat(Satış için gerekli olan fiyat).
 
 ## Not: Source dosyalarını 3BBaskıFiyatiHesaplama dosyasında bulabilirsiniz
 
