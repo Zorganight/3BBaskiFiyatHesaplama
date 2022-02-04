@@ -3,8 +3,6 @@ using System.Windows;
 
 namespace WpfApp2
 {
-    /// Bu kod 09.06.2021 gününde yazılmış ve nasıl çözüldüğü bilinmiyordur.
-
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
