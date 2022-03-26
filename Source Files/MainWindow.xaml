@@ -28,7 +28,8 @@
 
                 <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="20,5,20,5">
                     <Grid Height="30" Width="130" Background="#3d3b66">
-                        <TextBlock TextWrapping="Wrap" Foreground="White" Text="Baskı süresi:" TextAlignment="Left" Padding="5,5,0,0"/>
+                        <TextBlock TextWrapping="Wrap" Foreground="White" Text="Baskı süresi:" TextAlignment="Left" Padding="5,0,0,0"/>
+                        <TextBlock TextWrapping="Wrap" Foreground="White" Text="(Dakika):" TextAlignment="Left" Padding="10,13,0,0"/>
                         <TextBox VerticalAlignment="Top" x:Name="sr" Margin="65,5,0,0" Height="20" Width="50"/>
                     </Grid>
                 </StackPanel>

@@ -54,7 +54,7 @@ namespace WpfApp2
 
             }
 
-            double net = (flint / 1000) * grint + isint + (surent * 0.36);
+            double net = (flint / 1000) * grint + isint + (surent * 0.006);
             double kar = (net * 30 / 100) + net;
             lb.Text = $"Net fiyat:{net}";
             nm.Text = $"Kar ile birlikte fiyat:{kar}";
